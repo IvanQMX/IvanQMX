@@ -28,7 +28,7 @@ Hi there, I'm **Iván QM**, a **Microsoft Learn Student Ambassador** 👨🏽‍
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 
 
-**Languages and Tools:**  
+**Social Media:**  
 
 <code><a href="https://twitter.com/ivanqm_"><img height="20" src="https://cdn.svgporn.com/logos/twitter.svg"></a></code>
 <code><a href="https://medium.com/@ivanqm"><img height="20" src="https://cdn.svgporn.com/logos/medium.svg"></a></code>
