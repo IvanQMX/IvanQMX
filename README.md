@@ -14,7 +14,6 @@ Hi there, I'm **Iván QM**, a **Microsoft Learn Student Ambassador** 👨🏽‍
 - 🤔 My interests are with Web Development and Data Science;
 - 💼 I’m pursuing a Bachelor's degree in Computational Systems Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via ivan.quinteromaldonado@studentambassadors.com to reach me.
 
 
 **Languages and Tools:**  
