@@ -29,9 +29,9 @@ Hi there, I'm **Iván QM**, a **Microsoft Learn Student Ambassador** 👨🏽‍
 
 **Social Media:**  
 
-<code><a href="https://twitter.com/ivanqm_"><img height="20" src="https://cdn.svgporn.com/logos/twitter.svg"></a></code>
+<code><a href="https://twitter.com/IvanQMX"><img height="20" src="https://cdn.svgporn.com/logos/twitter.svg"></a></code>
 <code><a href="https://medium.com/@ivanqm"><img height="20" src="https://cdn.svgporn.com/logos/medium.svg"></a></code>
 
-![Iván's github stats](https://github-readme-stats.vercel.app/api?username=ivan-qm&show_icons=true&hide_border=true)
+![Iván's github stats](https://github-readme-stats.vercel.app/api?username=IvanQMX&show_icons=true&hide_border=true)
 
-⭐️ From [Ivan-QM](https://github.com/Ivan-QM)
+⭐️ From [IvanQMX](https://github.com/IvanQMX)
